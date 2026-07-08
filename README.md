@@ -1,2 +1,4 @@
 # example-repo
-Github_finance_project_1
+minesweeper.py_project
+this project shows the user a copy of the game minesweeper in python
+
